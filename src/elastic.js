@@ -1,6 +1,6 @@
 const { Client } = require("@elastic/elasticsearch");
                    require("dotenv").config();
-const elasticUrl = process.env.ELASTIC_URL || "http://localhost:9200";
+const elasticUrl = process.env.ELASTIC_URL || "http://localhost:9500";
 const esclient   = new Client({ node: elasticUrl });
 const index      = "product_assembly_catalog";
 const type       = "product_assembly_catalog";
