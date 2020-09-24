@@ -10,6 +10,6 @@ RUN npm install -g pm2
 COPY . ./
 
 EXPOSE 3000
-EXPOSE 9200
+EXPOSE 9201
 
 CMD npm run start

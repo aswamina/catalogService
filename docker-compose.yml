@@ -10,7 +10,7 @@ services:
      - NODE_ENV=local
      - ES_HOST=elasticsearch
      - NODE_PORT=3000
-     - ELASTIC_URL=http://elasticsearch:9200
+     - ELASTIC_URL=http://elasticsearch:9201
     volumes:
       - .:/usr/src/app/assemblycatalog
     command: npm run start
@@ -33,7 +33,7 @@ services:
       driver: none
     ports:
       - 9300:9300
-      - 9200:9200
+      - 9201:9201
     networks: 
       - esnet
 volumes:

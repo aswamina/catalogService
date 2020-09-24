@@ -50,4 +50,20 @@
 {"id": 20200925, "business_affiliate_name": "WestElm", "navigation_group": "Mounting", "name": "Elliot Brass Accent Mirrors", "low_assembly_price": 10, "high_assembly_price": 15, "options": { "shape": ["round", "square", "diamond", "hexagon", "oval"], "image_src": "https://assets.weimgs.com/weimgs/ab/images/wcm/products/202036/0052/elliot-brass-accent-mirrors-o.jpg", "image_height": 384, "image_width": 384}}
 ,
 {"id": 20200926, "business_affiliate_name": "WestElm", "navigation_group": "Mounting", "name": "Lucy Lacquer Mirrors", "low_assembly_price": 20, "high_assembly_price": 25, "options": { "size": ["small", "large"], "image_src": "https://assets.weimgs.com/weimgs/ab/images/wcm/products/202036/0053/lucy-lacquer-mirrors-o.jpg", "image_height": 384, "image_width": 384}}
+,
+{"id": 20200927, "business_affiliate_name": "WestElm", "navigation_group": "Mounting", "name": "Raven Window Mirror", "low_assembly_price": 39, "high_assembly_price": 59, "options": { "size": ["small", "large"], "image_src": "https://assets.weimgs.com/weimgs/ab/images/wcm/products/202036/0053/raven-window-mirror-o.jpg", "image_height": 384, "image_width": 384}}
+,
+{"id": 20200928, "business_affiliate_name": "WestElm", "navigation_group": "Mounting", "name": "Mid-Century Asymmetrical Acorn Wood Wall Mirror", "low_assembly_price": 49, "high_assembly_price": 49, "options": { "size": ["small", "large"], "image_src": "https://assets.weimgs.com/weimgs/ab/images/wcm/products/202014/0128/mid-century-asymmetrical-wall-mirror-o.jpg", "image_height": 384, "image_width": 384}}
+,
+{"id": 20200929, "business_affiliate_name": "WestElm", "navigation_group": "Mounting", "name": "Overlapping Diamonds Mirror", "low_assembly_price": 49, "high_assembly_price": 49, "options": { "size": ["small", "large"], "image_src": "https://assets.weimgs.com/weimgs/ab/images/wcm/products/202014/0324/overlapping-diamonds-mirror-o.jpg", "image_height": 384, "image_width": 384}}
+,
+{"id": 20200930, "business_affiliate_name": "WestElm", "navigation_group": "Mounting", "name": "Tempaper Hexagon Removable Wallpaper", "low_assembly_price": 169, "high_assembly_price": 259, "options": { "image_src": "https://assets.weimgs.com/weimgs/ab/images/wcm/products/202018/0118/hexagon-removable-wallpaper-o.jpg", "image_height": 384, "image_width": 384}}
+,
+{"id": 20200931, "business_affiliate_name": "WestElm", "navigation_group": "Mounting", "name": "Sepulveda Shiplap Mural Removable Wallpaper - Graystone", "low_assembly_price": 169, "high_assembly_price": 259, "options": { "image_src": "https://assets.weimgs.com/weimgs/ab/images/wcm/products/202014/0191/sepulveda-shiplap-mural-removable-wallpaper-graystone-o.jpg", "image_height": 384, "image_width": 384}}
+,
+{"id": 20200932, "business_affiliate_name": "WestElm", "navigation_group": "Mounting", "name": "Bobby Berk for Tempaper - Shift Removable Wallpaper", "low_assembly_price": 169, "high_assembly_price": 259, "options": { "image_src": "https://assets.weimgs.com/weimgs/ab/images/wcm/products/202018/0117/shift-removable-wallpaper-1-o.jpg", "image_height": 384, "image_width": 384}}
+,
+{"id": 20200933, "business_affiliate_name": "WestElm", "navigation_group": "Mounting", "name": "Tangerines in Greens Wall Covering", "low_assembly_price": 169, "high_assembly_price": 259, "options": { "image_src": "https://assets.weimgs.com/weimgs/ab/images/wcm/products/202021/0049/tangerines-in-greens-wall-covering-o.jpg", "image_height": 384, "image_width": 384}}
+,
+{"id": 20200934, "business_affiliate_name": "WestElm", "navigation_group": "Mounting", "name": "Muratto Cork Wall Covering - Geo Burst", "low_assembly_price": 169, "high_assembly_price": 259, "options": { "image_src": "https://assets.weimgs.com/weimgs/ab/images/wcm/products/202014/0055/muratto-cork-wall-covering-geo-burst-o.jpg", "image_height": 384, "image_width": 384}}
 ]
